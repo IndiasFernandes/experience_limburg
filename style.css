@@ -34,7 +34,7 @@ h1 {
 }
 
 button {
-  background: #2563eb;
+  background: #dc2626;
   color: white;
   border: none;
   padding: 0.6rem 1.2rem;
@@ -44,5 +44,5 @@ button {
 }
 
 button:hover {
-  background: #1d4ed8;
+  background: #b91c1c;
 }
