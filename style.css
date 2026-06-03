@@ -1,3 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #f4f4f5;
+  color: #18181b;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .card {
   background: white;
   padding: 2rem;
@@ -12,7 +28,7 @@ h1 {
   margin-bottom: 0.5rem;
 }
 
-p {
+#message {
   color: #52525b;
   margin-bottom: 1.5rem;
 }
